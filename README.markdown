@@ -1,5 +1,9 @@
-Direct3DHook
+# Megajewel
 
-http://spazzarama.com/2011/03/14/c-screen-capture-and-overlays-for-direct3d-9-10-and-11-using-api-hooks
+A Windows Forms application that uses Win32 API and DirectX hooks to play Bejeweled 3. It uses histogram classification to determine what jewels are displayed on-screen in order to determine what to click.
 
-[![Join the chat at https://gitter.im/spazzarama/Direct3DHook](https://badges.gitter.im/spazzarama/Direct3DHook.svg)](https://gitter.im/spazzarama/Direct3DHook?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+It scores over 4,000,000 points on Lightning Mode and reaches MAX levels and over 2,000,000 points on Diamond Mine.
+
+Programmed in C#.
+
+Video of bot in action: [https://www.youtube.com/watch?v=VUFU9sHFZu8]
